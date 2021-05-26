@@ -1,0 +1,27 @@
+.footer{
+  border: 1px solid blue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tecnologies{
+  border: 1px solid black;
+  width: 50%;
+}
+
+.tecnologies-list li{
+  list-style: none;
+}
+
+.tecnologies-list li img{
+  width: 50px;
+}
+
+.social-links{
+  border: 1px solid red;
+  width: 50%;
+}
+
+.social-links li {
+  list-style: none;
+}
