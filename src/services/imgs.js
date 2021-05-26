@@ -7,6 +7,7 @@ import redux from '../imgs/redux.png';
 import mysql from '../imgs/mysql.png';
 import mongodb from '../imgs/mongodb.png';
 import nodejs from '../imgs/nodejs.png';
+import cardDetails from '../imgs/card-details.png';
 
 export {
   html5,
@@ -18,4 +19,5 @@ export {
   mysql,
   mongodb,
   nodejs,
+  cardDetails,
 };

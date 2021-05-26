@@ -1,6 +1,6 @@
 import React from 'react';
 import ProjectCard from './ProjectCard';
-import cardDetails from '../img/card-details.png';
+import { cardDetails } from '../services/imgs';
 
 function Projects() {
   return (
